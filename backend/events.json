@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"This is Mogok","image":"https://imgs.search.brave.com/5osZsum09HjyuvArb1jw1iRNqsqpw4fzCZzTwsiiWTw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzgzLzM3LzM1/LzM2MF9GXzI4MzM3/MzUzMF9ObWYxMHdk/VHV5UlJnbERsV0hB/SHNEeENtbE9VT1lF/Yy5qcGc","date":"2024-07-03","description":"Test create event","id":"269f96d8-8a3e-4e29-b4bb-e38d5a0428e4"},{"title":"Mogok 1","image":"https://imgs.search.brave.com/3Trj65NlXlIX_fnrkaXteAjAcbLoVyimDiPwForm2Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzgzLzM3LzM1/LzM2MF9GXzI4MzM3/MzUyN18yTkJjb2l3/YXJGd3U2TjVqb09p/NnZndEFNQnJGdVpi/bS5qcGc","date":"2024-07-04","description":"test","id":"4a56226e-0f5c-49c9-895a-68442c5be91f"},{"title":"Mogok","image":"https://imgs.search.brave.com/3Trj65NlXlIX_fnrkaXteAjAcbLoVyimDiPwForm2Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzgzLzM3LzM1/LzM2MF9GXzI4MzM3/MzUyN18yTkJjb2l3/YXJGd3U2TjVqb09p/NnZndEFNQnJGdVpi/bS5qcGc","date":"2024-07-03","description":"Test ","id":"0d3d26d2-c984-48df-8e3f-2960c59bbeeb"}]}
